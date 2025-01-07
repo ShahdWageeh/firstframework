@@ -5,6 +5,9 @@
 nav{
     background-color: #2C3E50;
 }
+nav .container{
+    background-color: #2C3E50;
+}
 footer .upperFooter{
     background-color: #2C3E50;
 }
