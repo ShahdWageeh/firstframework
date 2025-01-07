@@ -1,0 +1,15 @@
+.layer{
+    position: absolute;
+    inset: 0;
+    background-color: #1abc9cb9;
+    opacity: 0;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.inner:hover .layer{
+    opacity: 1;
+}
+.title{
+    color: #2C3E50;
+    font-weight: 700;
+}

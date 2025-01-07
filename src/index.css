@@ -1,0 +1,22 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    background-color: #1ABC9C;
+    border-radius: 5px;
+}
+nav{
+    background-color: #2C3E50;
+}
+footer .upperFooter{
+    background-color: #2C3E50;
+}
+footer .social > div{
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer .lowerFooter{
+    background-color: #1A252F;
+}
