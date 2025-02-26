@@ -8,6 +8,13 @@ nav{
 nav .container{
     background-color: #2C3E50;
 }
+.navbar-toggler{
+    border: var(--bs-border-width) solid white;
+}
+.navbar-toggler:focus{
+    border-color: white;
+    box-shadow: none;
+}
 footer .upperFooter{
     background-color: #2C3E50;
 }

@@ -13,3 +13,12 @@
     color: #2C3E50;
     font-weight: 700;
 }
+.modal{
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
